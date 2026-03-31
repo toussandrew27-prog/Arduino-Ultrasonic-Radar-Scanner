@@ -18,4 +18,4 @@ L'appareil intègre également un système de retour visuel et sonore (LED RGB e
 * **Java / Processing** (Interface graphique, lecture du port Série)
 
 ## 📸 Démonstration
-<video src="[[COLLE_TON_LIEN_GITHUB_ICI](https://github.com/user-attachments/assets/4d7f1274-cceb-420a-8263-315c752ad3a0)]" width="100%" height="auto" autoplay loop muted controls></video>
+<video src="[https://github.com/user-attachments/assets/4d7f1274-cceb-420a-8263-315c752ad3a0]" width="100%" height="auto" autoplay loop muted controls></video>
